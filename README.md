@@ -231,6 +231,9 @@ Contributions are welcome.
 1. Fork the repository
 2. Create your feature branch
 
+## Vercel live Deploy link
+https://workforce-manager-bice.vercel.app/
+
 ```bash
 git checkout -b feature-name
 ```
@@ -249,7 +252,6 @@ git push origin feature-name
 
 5. Open a Pull Request
 
----
 
 ##  Show Your Support
 
@@ -262,8 +264,6 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 **Jay Rathore**
 
 B.Tech Student | Full Stack Web Developer
-
-GitHub:
 https://github.com/maijlayrathore
 
 LinkedIn:
